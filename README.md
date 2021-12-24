@@ -1,3 +1,9 @@
+## Participei dessa grande mentoria, projeto ministrado por Rodrigo Peleias, sobre testes unitários;
+### Entender os principais frameworks para testes unitários;
+### Desenvolver testes unitários para validação de funcionalides básicas: criação, listagem, consulta por nome e exclusão;
+### TDD: apresentação e exemplo prático com 2 funcionaliades importantes.
+
+
 <h2>Digital Innovation: Expert class - Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja.</h2>
 
 Nesta live coding, vamos aprender a testar, unitariamente, uma API REST para o gerenciamento de estoques de cerveja. Vamos desenvolver testes unitários para validar o nosso sistema de gerenciamento de estoques de cerveja, e também apresentar os principais conceitos e vantagens de criar testes unitários com JUnit e Mockito. Além disso, vamos também mostrar como desenvolver funcionalidades da nossa API através da prática do TDD.
